@@ -7,7 +7,9 @@ from  docx.shared import RGBColor   #导入颜色
 
 #打开文档
 #document = Document()
-doc_new = Document( "C:\\Users\\Administrator\\Desktop\\报告\\01-电子数据检验委托书-02送检物品清单.docx")
+#doc_new = Document( "C:\\Users\\Administrator\\Desktop\\报告\\01-电子数据检验委托书-02送检物品清单.docx")
+doc_new = Document( "C:\\Users\\Administrator\\Desktop\\报告\\upload测试.docx")
+
 #doc_new = Document("test.docx")
 #读取表格
 

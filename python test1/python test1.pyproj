@@ -27,7 +27,11 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="python-docx-0.8.6.tar.gz" />
+    <Content Include="pythonlib\lxml-4.1.1-cp34-none-win_amd64.whl" />
+    <Content Include="pythonlib\python-docx-0.8.6.tar.gz" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="pythonlib\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
